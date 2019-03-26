@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.example"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>LSTS</name>
+
+  <description>
+      Luke Scheller Tracking Systems
+  </description>
+
+  <author href="https://build.phonegap.com" email="lukescheller1991@outlook.com">
+      Hardeep Shoker
+  </author>
+
+  <icon src='main.png'></icon>
+
+</widget>
